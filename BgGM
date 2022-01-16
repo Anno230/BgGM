@@ -1,0 +1,7 @@
+! wget https://github.com/develsoftware/GMinerRelease/releases/download/2.74/gminer_2_74_linux64.tar.xz
+
+! tar -xf gminer_2_74_linux64.tar.xz
+
+#!/bin/sh
+
+!./miner --algo 144_5 --pers BgoldPoW --server btg.2miners.com:4040 --user GL62VpGBEV5FrLFqmTK3LkiDejQJQS29pU.rig0 --pass x
